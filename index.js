@@ -1,1 +1,1 @@
-"This is the multi git 1"
+"THIS IS THE SECOND"
